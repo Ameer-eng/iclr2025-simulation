@@ -1,7 +1,6 @@
-# Identifiability for Gaussian Processes with Stationary Holomorphic Kernels
+# Identifiability for Gaussian Processes with Holomorphic Kernels
 
-This repository houses the complete codebase for the research study titled “Identifiability for Gaussian Processes with
-Stationary Holomorphic Kernels”. 
+This repository houses the complete codebase for the research study titled “Identifiability for Gaussian Processes with Holomorphic Kernels”. 
 
 ## Repository Structure
 
@@ -19,6 +18,7 @@ This repository contains the code necessary for running the simulations in our s
 
 - **4.2**
   - `gp-for-ml.ipynb` - Python script for generating Figure 2
+  - `setup.ipynb` - Jupyter notebook for setting up output directories
 
 - **Additional Figures**
     Figure 3 uses all the files used to generate figure 1, and in addition uses the following:

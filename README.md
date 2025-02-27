@@ -1,6 +1,6 @@
 # Identifiability for Gaussian Processes with Holomorphic Kernels
 
-This repository houses the complete codebase for the research study titled “Identifiability for Gaussian Processes with Holomorphic Kernels”. 
+This repository houses the complete codebase for our ICLR 2025 paper: [Identifiability for Gaussian Processes with Holomorphic Kernels](https://openreview.net/forum?id=FUaDMRVrbS). 
 
 ## Repository Structure
 
@@ -70,3 +70,19 @@ All raw computed MLEs are stored in .npy files in the respective `results` direc
   - `eps=0.01/cosine-new.py` - 5 hours, 44 minutes
   - `eps=0.01/setup.ipynb` - 10 seconds
   - `eps=0.01/generate-boxplots.ipynb` - 10 seconds
+
+## Reference
+If you want to cite our work, you can do so with the following BibTex:
+
+```bibtex
+@inproceedings{qaqish2025identifiability,
+  title={Identifiability for Gaussian Processes with Holomorphic Kernels},
+  author={Qaqish, Ameer and Li, Didong},
+  booktitle={The Thirteenth International Conference on Learning Representations}
+  year={2025},
+  url={https://openreview.net/forum?id=FUaDMRVrbS}
+}
+```
+
+## Contact
+For any questions, email me at ameer@unc.edu.
